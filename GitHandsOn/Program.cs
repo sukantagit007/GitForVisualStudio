@@ -10,6 +10,7 @@ namespace GitHandsOn
     {
         static void Main(string[] args)
         {
+            //Working in feture 1.0
         }
     }
 }
