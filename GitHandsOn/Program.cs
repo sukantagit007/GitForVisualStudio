@@ -11,6 +11,8 @@ namespace GitHandsOn
         static void Main(string[] args)
         {
             //Working in feture 1.0
+
+            //Change to master branch.
         }
     }
 }
