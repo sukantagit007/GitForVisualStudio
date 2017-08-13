@@ -10,9 +10,11 @@ namespace GitHandsOn
     {
         static void Main(string[] args)
         {
-            //Working in feture 1.0
+            //Working in feature 1.0
 
-            //Change to master branch.
+            //Further Change 
+
+            //Additional Changes to Feature1.0 branch
         }
     }
 }
